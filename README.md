@@ -1,21 +1,28 @@
-# Not Released yet!
-The theme is still in development, if you want to join the project Fork it and we will accept pull requests.
-For informations look the milestones or follow the [facebook page](https://www.facebook.com/CharmanderProject). If anybody need something or have a question open a ticket from it, we will answer it.
+# Char GTK theme
+This is the Char theme for GTK+. Based on Roman Nguyen's [concept](https://www.behance.net/gallery/28804097/Ubuntu-1604-Stupendously-Hot-Charmander-concept) art.
 
-For development we do not recommend to put this themes into your ``~/.themes/`` folder create a virtual machine for testing because this themes not ready for use.
+Based on the [Numix](https://numixproject.org/) theme.
 
-# Charmander Linux Theme
-Simple and Flat theme for Linux created from [Roman Nguyen Concept](https://www.behance.net/gallery/28804097/Ubuntu-1604-Stupendously-Hot-Charmander-concept)
+# Desktop support
+This theme is under active development.
 
-The theme will be available on Unity7 and Gnome3. Later maybe we will add more desktop environments.
+Currently, it supports any desktop environment that uses GTK+ and Metacity.
 
-![Charmander](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a3133728804097.55d479d39d6c8.jpg)
+Coming soon:
 
-# Other elements
-For the icon pack and the custom Unity please follow the other repositories:
-- [CharmanderProject / Icons](https://github.com/CharmanderProject/Icons)
-- [CharmanderProject / Unity](https://github.com/CharmanderProject/Unity)
+- xfwm4 (XFCE)
+- Openbox
+- Unity
+
+# Requirements
+- GTK+
+- the Murrine theme engine
+
+# Code and License
+Code on [Github](https://github.com/bharadwaj-raju/char-gtk-theme).
+
+Licensed under the GNU General Public License (version 3).
 
 # Authors
 - Concept: [Roman Nguyen](https://www.behance.net/march08)
-- Theme: Adam Liszkai
+- Theme: Bharadwaj Raju

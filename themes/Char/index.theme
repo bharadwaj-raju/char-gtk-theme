@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Char
+Comment=Modern, flat theme based on concept art
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Char
+MetacityTheme=Char
+ButtonLayout=:minimize,maximize,close
